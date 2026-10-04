@@ -1,6 +1,6 @@
 ## Hi, I'm Kim! 👋
 
-I'm a Computer Science student and aspiring Software Engineer currently building my skills through coursework, 
+I'm a computer science student and aspiring software engineer currently building my skills through coursework, 
 hands-on projects, and independent learning. 
 
 Before beginning my journey into computer science, I spent 11 years working as a dental hygienist. My experience
